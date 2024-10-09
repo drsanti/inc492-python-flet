@@ -1,5 +1,5 @@
 #
-# examples/ex07/app_init.py
+# examples/ex07/main.py
 # Using `page.update` function.
 #   Note:   It is a good practice to use `page.update` function 
 #           to update the page when you need to update the page.

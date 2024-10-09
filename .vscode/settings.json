@@ -1,3 +1,4 @@
 {
-	"cSpell.words": ["flet"]
+	"editor.guides.indentation": false,
+	"cSpell.words": ["flet", "markupsafe"]
 }

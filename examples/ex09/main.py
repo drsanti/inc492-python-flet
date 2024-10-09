@@ -1,5 +1,5 @@
 #
-# examples/ex09/app_init.py
+# examples/ex09/main.py
 # - Lambda functions
 # - Passing data to event handler
 

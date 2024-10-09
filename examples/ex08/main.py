@@ -1,5 +1,5 @@
 #
-# examples/ex08/app_init.py
+# examples/ex08/main.py
 # Event and Event Handler
 #
 

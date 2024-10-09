@@ -1,6 +1,7 @@
-# Exclude all __pycache__ directories
-__pycache__/
-*/__pycache__/
-
-# Exclude virtual environment directory
-.venv/
+__pycache__
+.venv
+.vscode
+examples
+full-stack-examples
+instance
+quizzes

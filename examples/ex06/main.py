@@ -1,5 +1,5 @@
 #
-# examples/ex06/app_init.py
+# examples/ex06/main.py
 # Basic Controls/Widgets
 #   - Button
 #   - Checkbox

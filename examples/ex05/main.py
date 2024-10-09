@@ -1,5 +1,5 @@
 #
-# examples/ex05/app_init.py
+# examples/ex05/main.py
 # Passing argument to a function
 #   - Pass the `title` to the `app_init` function in the `app_init` module.
 #
